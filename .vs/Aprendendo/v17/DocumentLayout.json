@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F7E264CC-8EB7-4290-BF34-CA679214937B}|Colocando_em_pratica\\Colocando_em_pratica.csproj|c:\\users\\mathe\\documents\\visual studio 2022\\colocando_em_pratica\\aprendendo\\colocando_em_pratica\\frm_ex02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E264CC-8EB7-4290-BF34-CA679214937B}|Colocando_em_pratica\\Colocando_em_pratica.csproj|solutionrelative:colocando_em_pratica\\frm_ex02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E264CC-8EB7-4290-BF34-CA679214937B}|Colocando_em_pratica\\Colocando_em_pratica.csproj|c:\\users\\mathe\\documents\\visual studio 2022\\colocando_em_pratica\\aprendendo\\colocando_em_pratica\\frm_ex02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7E264CC-8EB7-4290-BF34-CA679214937B}|Colocando_em_pratica\\Colocando_em_pratica.csproj|solutionrelative:colocando_em_pratica\\frm_ex02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F7E264CC-8EB7-4290-BF34-CA679214937B}|Colocando_em_pratica\\Colocando_em_pratica.csproj|c:\\users\\mathe\\documents\\visual studio 2022\\colocando_em_pratica\\aprendendo\\colocando_em_pratica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F7E264CC-8EB7-4290-BF34-CA679214937B}|Colocando_em_pratica\\Colocando_em_pratica.csproj|solutionrelative:colocando_em_pratica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E264CC-8EB7-4290-BF34-CA679214937B}|Colocando_em_pratica\\Colocando_em_pratica.csproj|c:\\users\\mathe\\documents\\visual studio 2022\\colocando_em_pratica\\aprendendo\\colocando_em_pratica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E264CC-8EB7-4290-BF34-CA679214937B}|Colocando_em_pratica\\Colocando_em_pratica.csproj|solutionrelative:colocando_em_pratica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,6 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "frm_ex02.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\Colocando_em_pratica\\frm_ex02.cs",
+              "RelativeDocumentMoniker": "Colocando_em_pratica\\frm_ex02.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\Colocando_em_pratica\\frm_ex02.cs",
+              "RelativeToolTip": "Colocando_em_pratica\\frm_ex02.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvywAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:27:08.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\Colocando_em_pratica\\Form1.cs",
+              "RelativeDocumentMoniker": "Colocando_em_pratica\\Form1.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\Colocando_em_pratica\\Form1.cs",
+              "RelativeToolTip": "Colocando_em_pratica\\Form1.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwDgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:46:03.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\Colocando_em_pratica\\Form1.cs",
               "RelativeDocumentMoniker": "Colocando_em_pratica\\Form1.cs",
@@ -26,6 +64,18 @@
               "RelativeToolTip": "Colocando_em_pratica\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T00:38:12.143Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_ex02.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\Colocando_em_pratica\\frm_ex02.cs",
+              "RelativeDocumentMoniker": "Colocando_em_pratica\\frm_ex02.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\Colocando_em_pratica\\frm_ex02.cs [Design]",
+              "RelativeToolTip": "Colocando_em_pratica\\frm_ex02.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:17:28.298Z",
               "EditorCaption": " [Design]"
             }
           ]

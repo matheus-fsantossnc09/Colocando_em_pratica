@@ -1,0 +1,11 @@
+C:\Users\mathe\Documents\Visual Studio 2022\Colocando_Em_Pratica\Aprendendo\Colocando_em_pratica\bin\Debug\Colocando_em_pratica.exe.config
+C:\Users\mathe\Documents\Visual Studio 2022\Colocando_Em_Pratica\Aprendendo\Colocando_em_pratica\bin\Debug\Colocando_em_pratica.exe
+C:\Users\mathe\Documents\Visual Studio 2022\Colocando_Em_Pratica\Aprendendo\Colocando_em_pratica\bin\Debug\Colocando_em_pratica.pdb
+C:\Users\mathe\Documents\Visual Studio 2022\Colocando_Em_Pratica\Aprendendo\Colocando_em_pratica\obj\Debug\Colocando_em_pratica.csproj.AssemblyReference.cache
+C:\Users\mathe\Documents\Visual Studio 2022\Colocando_Em_Pratica\Aprendendo\Colocando_em_pratica\obj\Debug\Colocando_em_pratica.frm_Revisao.resources
+C:\Users\mathe\Documents\Visual Studio 2022\Colocando_Em_Pratica\Aprendendo\Colocando_em_pratica\obj\Debug\Colocando_em_pratica.Properties.Resources.resources
+C:\Users\mathe\Documents\Visual Studio 2022\Colocando_Em_Pratica\Aprendendo\Colocando_em_pratica\obj\Debug\Colocando_em_pratica.csproj.GenerateResource.cache
+C:\Users\mathe\Documents\Visual Studio 2022\Colocando_Em_Pratica\Aprendendo\Colocando_em_pratica\obj\Debug\Colocando_em_pratica.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\Visual Studio 2022\Colocando_Em_Pratica\Aprendendo\Colocando_em_pratica\obj\Debug\Colocando_em_pratica.exe
+C:\Users\mathe\Documents\Visual Studio 2022\Colocando_Em_Pratica\Aprendendo\Colocando_em_pratica\obj\Debug\Colocando_em_pratica.pdb
+C:\Users\mathe\Documents\Visual Studio 2022\Colocando_Em_Pratica\Aprendendo\Colocando_em_pratica\obj\Debug\Colocando_em_pratica.frm_ex02.resources
