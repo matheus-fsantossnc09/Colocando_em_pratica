@@ -98,7 +98,7 @@ namespace Colocando_em_pratica
                 lbl_Autenticado.ForeColor = Color.Green;
                 LimparLogin();
 
-                frmCalculadora abrir = new frmCalculadora();
+                frm_Calculadora abrir = new frm_Calculadora();
                 abrir.Show();
                 this.Hide();
 
@@ -150,7 +150,7 @@ namespace Colocando_em_pratica
         {
             if (e.KeyCode == Keys.Enter)
             {
-                frmCalculadora abrir = new frmCalculadora();
+                frm_Calculadora abrir = new frm_Calculadora();
                 abrir.Show();
                 this.Hide();
             }

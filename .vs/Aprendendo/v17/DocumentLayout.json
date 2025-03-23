@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7E264CC-8EB7-4290-BF34-CA679214937B}|Colocando_em_pratica\\Colocando_em_pratica.csproj|c:\\users\\mathe\\documents\\visual studio 2022\\colocando_em_pratica\\aprendendo\\colocando_em_pratica\\loginvalidar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7E264CC-8EB7-4290-BF34-CA679214937B}|Colocando_em_pratica\\Colocando_em_pratica.csproj|solutionrelative:colocando_em_pratica\\loginvalidar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7E264CC-8EB7-4290-BF34-CA679214937B}|Colocando_em_pratica\\Colocando_em_pratica.csproj|c:\\users\\mathe\\documents\\visual studio 2022\\colocando_em_pratica\\aprendendo\\colocando_em_pratica\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7E264CC-8EB7-4290-BF34-CA679214937B}|Colocando_em_pratica\\Colocando_em_pratica.csproj|solutionrelative:colocando_em_pratica\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7E264CC-8EB7-4290-BF34-CA679214937B}|Colocando_em_pratica\\Colocando_em_pratica.csproj|c:\\users\\mathe\\documents\\visual studio 2022\\colocando_em_pratica\\aprendendo\\colocando_em_pratica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7E264CC-8EB7-4290-BF34-CA679214937B}|Colocando_em_pratica\\Colocando_em_pratica.csproj|solutionrelative:colocando_em_pratica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7E264CC-8EB7-4290-BF34-CA679214937B}|Colocando_em_pratica\\Colocando_em_pratica.csproj|c:\\users\\mathe\\documents\\visual studio 2022\\colocando_em_pratica\\aprendendo\\colocando_em_pratica\\loginvalidar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F7E264CC-8EB7-4290-BF34-CA679214937B}|Colocando_em_pratica\\Colocando_em_pratica.csproj|solutionrelative:colocando_em_pratica\\loginvalidar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7E264CC-8EB7-4290-BF34-CA679214937B}|Colocando_em_pratica\\Colocando_em_pratica.csproj|c:\\users\\mathe\\documents\\visual studio 2022\\colocando_em_pratica\\aprendendo\\colocando_em_pratica\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F7E264CC-8EB7-4290-BF34-CA679214937B}|Colocando_em_pratica\\Colocando_em_pratica.csproj|C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\colocando_em_pratica\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F7E264CC-8EB7-4290-BF34-CA679214937B}|Colocando_em_pratica\\Colocando_em_pratica.csproj|solutionrelative:colocando_em_pratica\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7E264CC-8EB7-4290-BF34-CA679214937B}|Colocando_em_pratica\\Colocando_em_pratica.csproj|C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\colocando_em_pratica\\frm_ex02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7E264CC-8EB7-4290-BF34-CA679214937B}|Colocando_em_pratica\\Colocando_em_pratica.csproj|solutionrelative:colocando_em_pratica\\frm_ex02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7E264CC-8EB7-4290-BF34-CA679214937B}|Colocando_em_pratica\\Colocando_em_pratica.csproj|c:\\users\\mathe\\documents\\visual studio 2022\\colocando_em_pratica\\aprendendo\\colocando_em_pratica\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E264CC-8EB7-4290-BF34-CA679214937B}|Colocando_em_pratica\\Colocando_em_pratica.csproj|solutionrelative:colocando_em_pratica\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E264CC-8EB7-4290-BF34-CA679214937B}|Colocando_em_pratica\\Colocando_em_pratica.csproj|C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\colocando_em_pratica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E264CC-8EB7-4290-BF34-CA679214937B}|Colocando_em_pratica\\Colocando_em_pratica.csproj|solutionrelative:colocando_em_pratica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "frmCalculadora.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\Colocando_em_pratica\\frmCalculadora.cs",
+              "RelativeDocumentMoniker": "Colocando_em_pratica\\frmCalculadora.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\Colocando_em_pratica\\frmCalculadora.cs",
+              "RelativeToolTip": "Colocando_em_pratica\\frmCalculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:42:12.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "frmCalculadora.cs [Design]",
               "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\Colocando_em_pratica\\frmCalculadora.cs",
               "RelativeDocumentMoniker": "Colocando_em_pratica\\frmCalculadora.cs",
@@ -50,66 +51,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\Colocando_em_pratica\\Usuario.cs",
-              "RelativeDocumentMoniker": "Colocando_em_pratica\\Usuario.cs",
-              "ToolTip": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\Colocando_em_pratica\\Usuario.cs",
-              "RelativeToolTip": "Colocando_em_pratica\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T14:49:01.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoginValidar.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\Colocando_em_pratica\\LoginValidar.cs",
-              "RelativeDocumentMoniker": "Colocando_em_pratica\\LoginValidar.cs",
-              "ToolTip": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\Colocando_em_pratica\\LoginValidar.cs",
-              "RelativeToolTip": "Colocando_em_pratica\\LoginValidar.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAABsAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T14:07:11.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\Colocando_em_pratica\\Program.cs",
               "RelativeDocumentMoniker": "Colocando_em_pratica\\Program.cs",
               "ToolTip": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\Colocando_em_pratica\\Program.cs",
               "RelativeToolTip": "Colocando_em_pratica\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T13:51:38.942Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginValidar.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\Colocando_em_pratica\\LoginValidar.cs",
-              "RelativeDocumentMoniker": "Colocando_em_pratica\\LoginValidar.cs",
-              "ToolTip": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\Colocando_em_pratica\\LoginValidar.cs [Design]",
-              "RelativeToolTip": "Colocando_em_pratica\\LoginValidar.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T13:51:01.559Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frm_ex02.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\Colocando_em_pratica\\frm_ex02.cs",
-              "RelativeDocumentMoniker": "Colocando_em_pratica\\frm_ex02.cs",
-              "ToolTip": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\Colocando_em_pratica\\frm_ex02.cs",
-              "RelativeToolTip": "Colocando_em_pratica\\frm_ex02.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAADwvysAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T01:27:08.276Z"
             }
           ]
         }
