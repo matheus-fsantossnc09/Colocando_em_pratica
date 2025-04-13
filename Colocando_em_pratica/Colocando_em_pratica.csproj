@@ -52,6 +52,24 @@
     <Compile Include="frmCalculadora.Designer.cs">
       <DependentUpon>frmCalculadora.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmExercicios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExercicios.Designer.cs">
+      <DependentUpon>frmExercicios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmfuncionariosCorreto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmfuncionariosCorreto.Designer.cs">
+      <DependentUpon>frmfuncionariosCorreto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPesquisa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPesquisa.Designer.cs">
+      <DependentUpon>frmPesquisa.cs</DependentUpon>
+    </Compile>
     <Compile Include="LoginValidar.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -63,6 +81,15 @@
     <Compile Include="Usuario.cs" />
     <EmbeddedResource Include="frmCalculadora.resx">
       <DependentUpon>frmCalculadora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExercicios.resx">
+      <DependentUpon>frmExercicios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmfuncionariosCorreto.resx">
+      <DependentUpon>frmfuncionariosCorreto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPesquisa.resx">
+      <DependentUpon>frmPesquisa.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="LoginValidar.resx">
       <DependentUpon>LoginValidar.cs</DependentUpon>

@@ -16,7 +16,7 @@ namespace Colocando_em_pratica
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frm_LoginValidar());
+            Application.Run(new frmfuncionariosCorreto());
         }
     }
 }

@@ -1,70 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{F7E264CC-8EB7-4290-BF34-CA679214937B}|Colocando_em_pratica\\Colocando_em_pratica.csproj|C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\colocando_em_pratica\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F7E264CC-8EB7-4290-BF34-CA679214937B}|Colocando_em_pratica\\Colocando_em_pratica.csproj|solutionrelative:colocando_em_pratica\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7E264CC-8EB7-4290-BF34-CA679214937B}|Colocando_em_pratica\\Colocando_em_pratica.csproj|c:\\users\\mathe\\documents\\visual studio 2022\\colocando_em_pratica\\aprendendo\\colocando_em_pratica\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7E264CC-8EB7-4290-BF34-CA679214937B}|Colocando_em_pratica\\Colocando_em_pratica.csproj|solutionrelative:colocando_em_pratica\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7E264CC-8EB7-4290-BF34-CA679214937B}|Colocando_em_pratica\\Colocando_em_pratica.csproj|C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\colocando_em_pratica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7E264CC-8EB7-4290-BF34-CA679214937B}|Colocando_em_pratica\\Colocando_em_pratica.csproj|solutionrelative:colocando_em_pratica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmCalculadora.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\Colocando_em_pratica\\frmCalculadora.cs",
-              "RelativeDocumentMoniker": "Colocando_em_pratica\\frmCalculadora.cs",
-              "ToolTip": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\Colocando_em_pratica\\frmCalculadora.cs",
-              "RelativeToolTip": "Colocando_em_pratica\\frmCalculadora.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T19:42:12.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmCalculadora.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\Colocando_em_pratica\\frmCalculadora.cs",
-              "RelativeDocumentMoniker": "Colocando_em_pratica\\frmCalculadora.cs",
-              "ToolTip": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\Colocando_em_pratica\\frmCalculadora.cs [Design]",
-              "RelativeToolTip": "Colocando_em_pratica\\frmCalculadora.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T15:53:23.043Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\Colocando_em_pratica\\Program.cs",
-              "RelativeDocumentMoniker": "Colocando_em_pratica\\Program.cs",
-              "ToolTip": "C:\\Users\\mathe\\Documents\\Visual Studio 2022\\Colocando_Em_Pratica\\Aprendendo\\Colocando_em_pratica\\Program.cs",
-              "RelativeToolTip": "Colocando_em_pratica\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T13:51:38.942Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
