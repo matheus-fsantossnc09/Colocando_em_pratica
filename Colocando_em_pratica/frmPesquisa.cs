@@ -74,5 +74,13 @@ namespace Colocando_em_pratica
         {
             habilitarCampos();
         }
+
+        private void ltbPesquisar_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            string descricao = ltbPesquisar.Text;
+            frmfuncionariosCorreto abr = new frmfuncionariosCorreto(descricao);
+            abr.Show();
+            this.Hide();
+        }
     }
 }
