@@ -246,7 +246,7 @@ namespace Colocando_em_pratica
         public int alterarFuncionarios(int codFunc)
         {
             MySqlCommand conn = new MySqlCommand();
-            conn.CommandText = "update tbFuncionariosCorretos set nome = @nome,email = @email,cpf = @cpf,dataNasci = @dataNasci,telCelu = @telCelu,sexo = @sexo,logradouro = @logradouro,cep = @cep,numero = @numero,complemento = @complemento,bairro = @bairro,cidade = @cidade,uf = @uf WHERE codFunC = codFunC;";
+            conn.CommandText = "update tbFuncionariosCorretos set nome = @nome,email = @email,cpf = @cpf,dataNasci = @dataNasci,telCelu = @telCelu,sexo = @sexo,logradouro = @logradouro,cep = @cep,numero = @numero,complemento = @complemento,bairro = @bairro,cidade = @cidade,uf = @uf WHERE codFunC = @codFunC;";
             conn.CommandType = CommandType.Text;
 
             conn.Parameters.Clear();
@@ -273,7 +273,7 @@ namespace Colocando_em_pratica
             conn.Parameters.Add("@cep", MySqlDbType.VarChar, 9).Value = mskCep.Text;
             conn.Parameters.Add("@numero", MySqlDbType.VarChar, 10).Value = txtNumero.Text;
             conn.Parameters.Add("@complemento", MySqlDbType.VarChar, 100).Value = txtComplemento.Text;
-            conn.Parameters.Add("@bairro", MySqlDbType.VarChar, 100).Value = txtBairro;
+            conn.Parameters.Add("@bairro", MySqlDbType.VarChar, 100).Value = txtBairro.Text;
             conn.Parameters.Add("@cidade", MySqlDbType.VarChar,100).Value = txtCidade.Text;
             conn.Parameters.Add("@uf", MySqlDbType.VarChar,2).Value = cbbUf.Text;
            
